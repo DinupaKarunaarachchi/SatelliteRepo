@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceX Starlink Project", "SpaceX Starlink Project.csproj", "{CEC4CD3F-CA37-4230-A00A-8760FA25AD14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEC4CD3F-CA37-4230-A00A-8760FA25AD14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEC4CD3F-CA37-4230-A00A-8760FA25AD14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEC4CD3F-CA37-4230-A00A-8760FA25AD14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEC4CD3F-CA37-4230-A00A-8760FA25AD14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDA85C9D-9FB3-4592-B30F-249C16A303E6}
+	EndGlobalSection
+EndGlobal

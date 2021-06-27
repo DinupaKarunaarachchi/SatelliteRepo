@@ -1,0 +1,20 @@
+C:\Users\User\Desktop\VS DB\SpaceX Starlink Project\bin\Debug\SpaceX Starlink Project.exe.config
+C:\Users\User\Desktop\VS DB\SpaceX Starlink Project\bin\Debug\SpaceX Starlink Project.exe
+C:\Users\User\Desktop\VS DB\SpaceX Starlink Project\bin\Debug\SpaceX Starlink Project.pdb
+C:\Users\User\Desktop\VS DB\SpaceX Starlink Project\obj\Debug\SpaceX_Starlink_Project.Form1.resources
+C:\Users\User\Desktop\VS DB\SpaceX Starlink Project\obj\Debug\SpaceX_Starlink_Project.Properties.Resources.resources
+C:\Users\User\Desktop\VS DB\SpaceX Starlink Project\obj\Debug\SpaceX Starlink Project.csproj.GenerateResource.cache
+C:\Users\User\Desktop\VS DB\SpaceX Starlink Project\obj\Debug\SpaceX Starlink Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\VS DB\SpaceX Starlink Project\obj\Debug\SpaceX Starlink Project.exe
+C:\Users\User\Desktop\VS DB\SpaceX Starlink Project\obj\Debug\SpaceX Starlink Project.pdb
+D:\VS DB\SpaceX Starlink Project\bin\Debug\SpaceX Starlink Project.exe.config
+D:\VS DB\SpaceX Starlink Project\bin\Debug\SpaceX Starlink Project.exe
+D:\VS DB\SpaceX Starlink Project\bin\Debug\SpaceX Starlink Project.pdb
+D:\VS DB\SpaceX Starlink Project\obj\Debug\SpaceX Starlink Project.csprojAssemblyReference.cache
+D:\VS DB\SpaceX Starlink Project\obj\Debug\SpaceX_Starlink_Project.Form1.resources
+D:\VS DB\SpaceX Starlink Project\obj\Debug\SpaceX_Starlink_Project.Properties.Resources.resources
+D:\VS DB\SpaceX Starlink Project\obj\Debug\SpaceX Starlink Project.csproj.GenerateResource.cache
+D:\VS DB\SpaceX Starlink Project\obj\Debug\SpaceX Starlink Project.csproj.CoreCompileInputs.cache
+D:\VS DB\SpaceX Starlink Project\obj\Debug\SpaceX Starlink Project.exe
+D:\VS DB\SpaceX Starlink Project\obj\Debug\SpaceX Starlink Project.pdb
+C:\Users\User\Desktop\VS DB\SpaceX Starlink Project\obj\Debug\SpaceX Starlink Project.csproj.AssemblyReference.cache
